@@ -1,4 +1,4 @@
-# 
+# Enhance Figma for macOS with Figma for macOS professional Plugin: smart objects & masking tools, the #1 plugin. Includes smart objects and masking tools for a smoother and more
 
 
 
